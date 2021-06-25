@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "151165300532",
+    "project_id": "pesan-ef55f",
+    "storage_bucket": "pesan-ef55f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151165300532:android:39a52e867f47147a06ff61",
+        "android_client_info": {
+          "package_name": "com.liez.kirimpesan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151165300532-crcst9iaol6r4r7pkfeg6hs1s9hsp22o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC5ZqrS3-Aw3SrGHSGv04NqN5bNx7RrWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151165300532-crcst9iaol6r4r7pkfeg6hs1s9hsp22o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
